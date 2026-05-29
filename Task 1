@@ -1,0 +1,18 @@
+README.md
+# Elevate Labs Internship Task 1
+
+## Objective
+Data Cleaning and Preprocessing using Titanic Dataset.
+
+## Tools Used
+- Python
+- Pandas
+- Seaborn
+- Scikit-learn
+
+## Steps Performed
+- Handled missing values
+- Encoded categorical data
+- Standardized data
+- Visualized outliers
+- Saved cleaned dataset
